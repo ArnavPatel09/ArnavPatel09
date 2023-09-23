@@ -1,7 +1,13 @@
 Hi 👋 My name is Arnav Patel
 ============================
 
-I am a Junior studying Computer Science at Purdue University.
+I'm an aspiring Software Engineer actively seeking exciting career opportunities.
+
+Residing in the Bay Area, a bustling tech hub, my initial exposure to coding occurred in my high school years. My coding journey began with C, and I embraced the old-school approach of learning from books and using pen and paper. This foundational experience with C was the launchpad for my adventure into the world of Computer Science.
+
+My path led me to Purdue University. Here, I am continually inspired to dive into projects and explore new programming languages. Along the way, I've added Java, JavaScript, and Python to my toolkit.
+
+I'm on track to complete my studies at Purdue University by December 2024, and I'm eagerly looking forward to the next chapter in my software engineering career. Feel free to reach me via email, LinkedIn, or any other social media linked below.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [arnavpatel09@gmail.com](mailto:arnavpatel09@gmail.com)
