@@ -1,6 +1,10 @@
-Hi 👋 
-My name is Arnav Patel
-============================
+<div align="center">
+  
+  Hi 👋  <br />
+  I'm Arnav
+  ============================
+  
+</div>
 
 I'm an aspiring Software Engineer actively seeking exciting career opportunities.
 
